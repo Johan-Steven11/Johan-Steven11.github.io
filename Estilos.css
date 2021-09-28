@@ -2,3 +2,20 @@ body{
 
     background-color: green;
 }
+
+h1 {
+
+    text-align: center;
+}
+p{
+
+
+    text-align: center;
+}
+video{
+    margin-left: 420px;
+    width: 500px;
+    height: 300px;
+    
+
+}
