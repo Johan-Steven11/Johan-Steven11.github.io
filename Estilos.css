@@ -1,21 +1,26 @@
-body{
+body {
 
-    background-color: green;
+background-image: url(https://c.tenor.com/QOsCwQcifo8AAAAC/cute-yoshi.gif);  
+color: white;
 }
+
 
 h1 {
-
-    text-align: center;
+  text-align: center;
 }
-p{
-
-
-    text-align: center;
+p {
+  text-align: center;
 }
-video{
-    margin-left: 420px;
-    width: 500px;
+.V {
+  margin-left: 420px;
+  width: 500px;
+  height: 300px;
+}
+
+@media screen and (max-width: 421px) {
+  .V {
+    margin-left: 0px;
+    width: 400px;
     height: 300px;
-    
-
+  }
 }
